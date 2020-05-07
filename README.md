@@ -32,7 +32,7 @@ To execute the files successfully.
 ## Built With
 
 * Python - The project is Build using the language.
-* Chatterbot - ChatterBot is a Python library that makes it easy to generate automated responses to a user’s input.
+* Chatterbot - ChatterBot is a Python library that makes it easy to generate automated responses to a userâ€™s input.
 * Chatterbot_corpus - A machine readable multilingual dialog corpus.
 * SpeechRecognition - It is a python speech to text conversion library.
 * pyttsx3 - It is a python text to speech conversion library.
@@ -42,10 +42,15 @@ To execute the files successfully.
 ## Authors
 
 * **Anurag Srivastava**
-* Social Media - **@imsrvstv**
+Social Media - **@imsrvstv**
+Contact Email - **imsrvstv@gmail.com**
 
 * **Abhinav Kaushik**
+Social Media - **@i.abhikaushik**
+Contact Email - **kaushikabhinav0001@gmail.com**
 
 * **Anjali Negi**
+Contact Email - **anjali22200@gmail.com**
 
 * **Ayush Rajput**
+Contact Email - **ayushrajput2069@gmail.com**
