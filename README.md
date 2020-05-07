@@ -10,13 +10,13 @@ Download the repository files and execute setup.py to build the sqlite3 file. Af
 For you own queries edit dataset\chatbot.yml file.
 The queries should be like this:
 
-'''
+```
 categories:
 - Category_Name
 conversations:
 - - Question?
   - Answer.
-'''
+```
 
 ### Prerequisites
 
