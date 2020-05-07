@@ -41,16 +41,16 @@ To execute the files successfully.
 
 ## Authors
 
-* **Anurag Srivastava**
+* **Anurag Srivastava**:
 Social Media - **@imsrvstv**
 Contact Email - **imsrvstv@gmail.com**
 
-* **Abhinav Kaushik**
+* **Abhinav Kaushik**:
 Social Media - **@i.abhikaushik**
 Contact Email - **kaushikabhinav0001@gmail.com**
 
-* **Anjali Negi**
+* **Anjali Negi**:
 Contact Email - **anjali22200@gmail.com**
 
-* **Ayush Rajput**
+* **Ayush Rajput**:
 Contact Email - **ayushrajput2069@gmail.com**
