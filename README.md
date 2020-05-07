@@ -1,6 +1,6 @@
 # Project Title
 
-**Duplex - Automating Telephonic Conversations** 
+## Duplex - Automating Telephonic Conversations 
 Developed Using Python, chatterbot etc.
 The GUI was developed using Tkinter.
 
