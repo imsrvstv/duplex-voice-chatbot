@@ -9,13 +9,13 @@ The GUI was developed using Tkinter.
 Download the repository files and execute setup.py to build the sqlite3 file. After that run main.py a tkinter window will pop up, click "Start Bot" to execute the chatbot.
 For you own queries edit dataset\chatbot.yml file.
 The queries should be like this:
-
+'''
 categories:
 - Category_Name
 conversations:
 - - Question?
   - Answer.
-
+'''
 ### Prerequisites
 
 You will need:
